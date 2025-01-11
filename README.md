@@ -1,4 +1,4 @@
-# Issue Tracker Phone Appearance
+# Issue Tracker Web Appearance
 
 ![Issue Tracker Preview](./gif/Zight%20Recording%202025-1-11%20at%2010.06.02%20PM.gif)
 
@@ -42,4 +42,3 @@ A modern and user-friendly issue tracking system. A responsive web application d
 ## 👨‍💻 Developer/Contact
 
 mraliagaa@gmail.com
-# TrackTask-TT-
